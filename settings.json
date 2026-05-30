@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "hue_0.aternos.me",
-    "port":49639 ,
+    "port": 49639,
     "version": "",
     "try-creative": false
   },
